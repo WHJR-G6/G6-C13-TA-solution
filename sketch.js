@@ -55,7 +55,7 @@ function draw() {
   background('#F2F5B6');  
   textSize(20);
 
-  fill(255);
+  fill(0);
   
   text("Score " + score , 350,50);
   //calculate and display score
